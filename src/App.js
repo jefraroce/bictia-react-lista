@@ -114,5 +114,5 @@ export default App
  * Taller
  * 
  * 1. Agregar la opción de eliminar elementos de la lista
- * 2. Agregar la posibilidad de marcar como en el carrito los productos pendientes
+ * 2. Agregar la posibilidad de marcar como "en el carrito" los productos pendientes
  */
